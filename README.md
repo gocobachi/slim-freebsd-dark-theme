@@ -25,7 +25,7 @@ current_theme       slim-freebsd-theme
 ```
 ### Preview
 
-![img](https://raw.githubusercontent.com/gocobachi/slim-freebsd-theme/master/screenshot.png)|![img](https://raw.githubusercontent.com/gocobachi/slim-freebsd-theme/master/screenshot.png)
+![img](https://raw.githubusercontent.com/gocobachi/slim-freebsd-theme/master/screenshot.png)
 
 
 ### Support
