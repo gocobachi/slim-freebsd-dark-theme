@@ -1,0 +1,37 @@
+# SLiM FreeBSD theme
+#
+# Author: Miguel Gocobachi <miguel@gocobachi.dev>
+# Homepage: https://github.com/gocobachi/slim-freebsd-theme
+#
+# The FreeBSD logo has been taken from https://freebsdfoundation.org/about/project
+#
+background_style        stretch
+background_color        #000000
+
+# Messages position for the commands: [halt, reboot]
+msg_color               #AB2B28
+msg_font                Sans:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   95%
+
+# Session name
+session_color               #AB2B28
+session_font                Sans:size=16:bold:dpi=75
+session_x                   90%
+session_y                   5%
+
+# Input controls
+input_panel_x           50%
+input_panel_y           60%
+input_name_x            30
+input_name_y            40
+input_pass_x            30
+input_pass_y            105
+input_font              Sans:size=14:dpi=75
+input_color             #AB2B28
+
+# Messages
+shutdown_msg  Good bye!
+reboot_msg    I'll be back...
+username_msg
+password_msg
